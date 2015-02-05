@@ -6,6 +6,7 @@ A various resources list
 - [Web Framework](#web-framework)
 - [Django App](#django-app)
 - [Javascript app/lib](#javascript-lib)
+- [Icon/Graphics](#icon-graphics)
 
 ## Python Lib
 *Usefull python libraries*
@@ -24,3 +25,11 @@ A various resources list
 *Usefull javascript libraries*
 
 * [is.js](http://arasatasaygin.github.io/is.js/) - Is.js is a very useful micro check library that helps check types, regexps, presence, time and more.
+* [types.js](https://github.com/phazelift/types.js) - A tiny (2.2kB) Javascript type checker/enforcer library.
+* [blinkTitle.js](http://argunner.github.io/blinkTitle.js) - Is a Pure Javascript Implementation of TitleBar Alert or Notification.It Can Perform Blinking of Html Titlebar When Required.
+* [format.js](http://formatjs.io/) - Internationalize your web apps on the client & server.
+
+## Icon graphics
+*Usefull graphics resources*
+
+* [flaticon](http://www.flaticon.com/) - The largest database of free vector icons
