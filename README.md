@@ -7,6 +7,7 @@ A various resources list
 - [Django App](#django-app)
 - [Javascript app/lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
+- [General utilities](#general-utilities)
 
 ## Python Lib
 *Usefull python libraries*
@@ -33,3 +34,11 @@ A various resources list
 *Usefull graphics resources*
 
 * [flaticon](http://www.flaticon.com/) - The largest database of free vector icons
+* [littlebox] http://littlebox.cabmaddux.com/ - Super simple to use, CSS-only icons
+
+## General Utilities
+*Usefull general utilities*
+
+* [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
+
+
