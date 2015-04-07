@@ -24,12 +24,12 @@ A various resources list
 ## Django App
 * [Django Leaflet Storage](https://github.com/yohanboniface/django-leaflet-storage) - Provide collaborative maps for your Django project. Django-Leaflet-Storage is a backend for Leaflet.Storage, built on top of Geodjango and Leaflet.
 
-## Javascirpt WebGis Framework
+## Javascript WebGis Framework
 *Usefull javascript webgis framework*
 
 * [MapLoom](https://github.com/ROGUE-JCTD/MapLoom) - MapLoom is a web mapping client based on OpenLayers 3. It provides full-featured editing capabilities for data stores in GeoServer - including PostGIS and GeoGig. For GeoGig layers, it lets you view history, and sync with other GeoGig repositories
 
-## Javascirpt Lib
+## Javascript Lib
 *Usefull javascript libraries*
 
 * [is.js](http://arasatasaygin.github.io/is.js/) - Is.js is a very useful micro check library that helps check types, regexps, presence, time and more.
