@@ -5,7 +5,8 @@ A various resources list
 - [Python app/lib](#python-lib)
 - [Web Framework](#web-framework)
 - [Django App](#django-app)
-- [Javascript app/lib](#javascript-lib)
+- [Javascript WebGis Framework](#javascript-webgis-framework)
+- [Javascript App/Lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
 
@@ -18,9 +19,15 @@ A various resources list
 
 * [Shiny](http://shiny.rstudio.com/) - A web application framework for R
 * [Umap](https://bitbucket.org/yohanboniface/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site. Because we think that the more OSM will be used, the more OSM will be ''cured''. It uses django-leaflet-storage and Leaflet.Storage, built on top of Django and Leaflet.
+* [GeoShape](http://geoshape.org/) - Geospatial capabilities for Security, Humanitarian Assistance, Partner Engagement
 
 ## Django App
 * [Django Leaflet Storage](https://github.com/yohanboniface/django-leaflet-storage) - Provide collaborative maps for your Django project. Django-Leaflet-Storage is a backend for Leaflet.Storage, built on top of Geodjango and Leaflet.
+
+## Javascirpt WebGis Framework
+*Usefull javascript webgis framework*
+
+* [MapLoom](https://github.com/ROGUE-JCTD/MapLoom) - MapLoom is a web mapping client based on OpenLayers 3. It provides full-featured editing capabilities for data stores in GeoServer - including PostGIS and GeoGig. For GeoGig layers, it lets you view history, and sync with other GeoGig repositories
 
 ## Javascirpt Lib
 *Usefull javascript libraries*
