@@ -56,4 +56,4 @@ A various resources list
 ## SUB Resources
 *Other resource usefull resources
 
-*[Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+* [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
