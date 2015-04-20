@@ -9,6 +9,7 @@ A various resources list
 - [Javascript App/Lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
+- [SUB Resources](#sub-resources)
 
 ## Python Lib
 *Usefull python libraries*
@@ -36,16 +37,23 @@ A various resources list
 * [types.js](https://github.com/phazelift/types.js) - A tiny (2.2kB) Javascript type checker/enforcer library.
 * [blinkTitle.js](http://argunner.github.io/blinkTitle.js) - Is a Pure Javascript Implementation of TitleBar Alert or Notification.It Can Perform Blinking of Html Titlebar When Required.
 * [format.js](http://formatjs.io/) - Internationalize your web apps on the client & server.
+* [layr.js](http://callmecavs.github.io/layzr.js/) - A small, fast, modern, and dependency-free library for lazy loading images.
+* [cta.js](http://kushagragour.in/lab/ctajs/) - cta.js or "Call to Animation" is a light-weight performant library to animate your "action-to-effect" paths.
 
 ## Icon graphics
 *Usefull graphics resources*
 
 * [flaticon](http://www.flaticon.com/) - The largest database of free vector icons
-* [littlebox] http://littlebox.cabmaddux.com/ - Super simple to use, CSS-only icons
+* [littlebox](http://littlebox.cabmaddux.com/) - Super simple to use, CSS-only icons
+* [icons8](http://icons8.com/) - 10000+ icons in any format, size and color in 20 seconds
+* [flat-color-icons](https://github.com/icons8/flat-color-icons) - Icons8 Flat Color Icons
 
 ## General Utilities
 *Usefull general utilities*
 
 * [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
 
+## SUB Resources
+*Other resource usefull resources
 
+*[Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
