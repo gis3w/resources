@@ -54,6 +54,6 @@ A various resources list
 * [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
 
 ## SUB Resources
-*Other resource usefull resources
+*Other resource usefull resources*
 
 * [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
