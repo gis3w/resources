@@ -40,6 +40,12 @@ A various resources list
 * [layr.js](http://callmecavs.github.io/layzr.js/) - A small, fast, modern, and dependency-free library for lazy loading images.
 * [cta.js](http://kushagragour.in/lab/ctajs/) - cta.js or "Call to Animation" is a light-weight performant library to animate your "action-to-effect" paths.
 
+*Charts and Graphics*
+
+* [dimple](http://dimplejs.org/) - An object-oriented API for business analytics powered by d3.
+* [NVD3](http://nvd3.org/) - Re-usable charts for d3.js
+* [C3.js](http://c3js.org/) - D3-based reusable chart library
+
 ## Icon graphics
 *Usefull graphics resources*
 
