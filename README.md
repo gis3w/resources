@@ -39,6 +39,9 @@ A various resources list
 * [format.js](http://formatjs.io/) - Internationalize your web apps on the client & server.
 * [layr.js](http://callmecavs.github.io/layzr.js/) - A small, fast, modern, and dependency-free library for lazy loading images.
 * [cta.js](http://kushagragour.in/lab/ctajs/) - cta.js or "Call to Animation" is a light-weight performant library to animate your "action-to-effect" paths.
+* [AnimateTransition](https://github.com/Rapid-Application-Development-JS/AnimateTransition) - Library for transition animations between blocks (pages) in the application.
+* [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
+* [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 
 *Charts and Graphics*
 
