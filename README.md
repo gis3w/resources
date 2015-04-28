@@ -43,6 +43,11 @@ A various resources list
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
 * [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 
+*API
+
+* [Hammock](https://github.com/kadirpekel/hammock) - Hammock is a fun module lets you deal with rest APIs by converting them into dead simple programmatic APIs. It uses popular requests module in backyard to provide full-fledged rest experience.
+* [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
+
 *Charts and Graphics*
 
 * [dimple](http://dimplejs.org/) - An object-oriented API for business analytics powered by d3.
