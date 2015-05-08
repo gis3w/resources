@@ -24,6 +24,8 @@ A various resources list
 
 ## Django App
 * [Django Leaflet Storage](https://github.com/yohanboniface/django-leaflet-storage) - Provide collaborative maps for your Django project. Django-Leaflet-Storage is a backend for Leaflet.Storage, built on top of Geodjango and Leaflet.
+* [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
+* [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
@@ -46,7 +48,7 @@ A various resources list
 *API
 
 * [Hammock](https://github.com/kadirpekel/hammock) - Hammock is a fun module lets you deal with rest APIs by converting them into dead simple programmatic APIs. It uses popular requests module in backyard to provide full-fledged rest experience.
-* [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
+
 
 *Charts and Graphics*
 
