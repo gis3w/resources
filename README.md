@@ -44,6 +44,7 @@ A various resources list
 * [AnimateTransition](https://github.com/Rapid-Application-Development-JS/AnimateTransition) - Library for transition animations between blocks (pages) in the application.
 * [Elevator.js](http://tholman.com/elevator.js/) - Elevator.js fixes those awkward "scroll to top" moments the old fashioned way.
 * [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+* [Smoke](http://alfredobarron.github.io/smoke/) - Smoke is the most complete jQuery Plugin and designed for use with Bootstrap 3
 
 *API
 
@@ -68,6 +69,7 @@ A various resources list
 *Usefull general utilities*
 
 * [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
+* [wwwhere](http://wwwhere.io/) - Wwwhere provides a carefully curated list of tools and resources for people who make websites.
 
 ## SUB Resources
 *Other resource usefull resources*
