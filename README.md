@@ -46,6 +46,7 @@ A various resources list
 * [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 * [Smoke](http://alfredobarron.github.io/smoke/) - Smoke is the most complete jQuery Plugin and designed for use with Bootstrap 3
 * [iconate.js](http://bitshadow.github.io/iconate/) - Transform your icons with trendy animations
+* [textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
 *API
 
