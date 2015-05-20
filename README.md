@@ -26,6 +26,7 @@ A various resources list
 * [Django Leaflet Storage](https://github.com/yohanboniface/django-leaflet-storage) - Provide collaborative maps for your Django project. Django-Leaflet-Storage is a backend for Leaflet.Storage, built on top of Geodjango and Leaflet.
 * [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
 * [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
+* [Hayastack](http://haystacksearch.org/) - Modular search for Django
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
