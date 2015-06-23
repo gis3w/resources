@@ -50,6 +50,7 @@ A various resources list
 * [Smoke](http://alfredobarron.github.io/smoke/) - Smoke is the most complete jQuery Plugin and designed for use with Bootstrap 3
 * [iconate.js](http://bitshadow.github.io/iconate/) - Transform your icons with trendy animations
 * [textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
+* [jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW. http://jspdf.com/
 
 *API
 
@@ -69,6 +70,7 @@ A various resources list
 * [littlebox](http://littlebox.cabmaddux.com/) - Super simple to use, CSS-only icons
 * [icons8](http://icons8.com/) - 10000+ icons in any format, size and color in 20 seconds
 * [flat-color-icons](https://github.com/icons8/flat-color-icons) - Icons8 Flat Color Icons
+* [smarticons](https://smarticons.co/icons) - free icons
 
 ## General Utilities
 *Usefull general utilities*
@@ -80,3 +82,4 @@ A various resources list
 *Other resource usefull resources*
 
 * [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+* [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
