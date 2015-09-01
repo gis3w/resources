@@ -9,6 +9,7 @@ A various resources list
 - [Javascript App/Lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
+- [DataBase utilisties](#db-utilities)
 - [SUB Resources](#sub-resources)
 
 
@@ -79,6 +80,10 @@ A various resources list
 
 * [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
 * [wwwhere](http://wwwhere.io/) - Wwwhere provides a carefully curated list of tools and resources for people who make websites.
+
+## DataBase utilities
+*Usefull database utilities*
+* [pg-migrator](https://github.com/aphel-bilisim-hizmetleri/pg-migrator) - PostgreSQL Migration Tool
 
 ## SUB Resources
 *Other resource usefull resources*
