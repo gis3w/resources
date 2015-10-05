@@ -53,6 +53,8 @@ A various resources list
 * [iconate.js](http://bitshadow.github.io/iconate/) - Transform your icons with trendy animations
 * [textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 * [jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW. http://jspdf.com/
+* [clipboard.js](http://zenorocha.github.io/clipboard.js/) - A modern approach to copy text to clipboard. No Flash. No dependencies. Just 2kb
+* [thesquid.ink](http://thesquid.ink/) - 2000 handcrafted Icons
 
 *API
 
@@ -74,6 +76,7 @@ A various resources list
 * [icons8](http://icons8.com/) - 10000+ icons in any format, size and color in 20 seconds
 * [flat-color-icons](https://github.com/icons8/flat-color-icons) - Icons8 Flat Color Icons
 * [smarticons](https://smarticons.co/icons) - free icons
+* [iconstore](http://iconstore.co/) - Free Icon Packs by First-Class Designers
 
 ## General Utilities
 *Usefull general utilities*
