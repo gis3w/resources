@@ -5,6 +5,7 @@ A various resources list
 - [Python app/lib](#python-lib)
 - [Web Framework](#web-framework)
 - [Django App](#django-app)
+- [CSS Libs/Frameworks/Resources](#css-lib-frameworkd-resources)
 - [Javascript WebGis Framework](#javascript-webgis-framework)
 - [Javascript App/Lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
@@ -31,6 +32,9 @@ A various resources list
 * [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
 * [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
 * [Hayastack](http://haystacksearch.org/) - Modular search for Django
+
+## CSS Libs/Frameworks/Resources
+* [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
