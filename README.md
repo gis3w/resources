@@ -5,7 +5,7 @@ A various resources list
 - [Python app/lib](#python-lib)
 - [Web Framework](#web-framework)
 - [Django App](#django-app)
-- [CSS Libs/Frameworks/Resources](#css-lib-frameworkd-resources)
+- [CSS Libs/Frameworks/Resources](#css-lib-framework-resources)
 - [Javascript WebGis Framework](#javascript-webgis-framework)
 - [Javascript App/Lib](#javascript-lib)
 - [Icon/Graphics](#icon-graphics)
