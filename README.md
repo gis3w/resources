@@ -35,6 +35,7 @@ A various resources list
 
 ## CSS Libs/Frameworks/Resources
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
+* [Scooter](http://dropbox.github.io/scooter/index.html) - Scooter: an SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
