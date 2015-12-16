@@ -70,7 +70,8 @@ A various resources list
 
 * [dimple](http://dimplejs.org/) - An object-oriented API for business analytics powered by d3.
 * [NVD3](http://nvd3.org/) - Re-usable charts for d3.js
-* [C3.js](http://c3js.org/) - D3-based reusable chart library
+* [C3.js](http://c3js.org/) - D3-based reusable chart librar
+* [dc.js](https://dc-js.github.io/dc.js/) - dc.js - Dimensional Charting Javascript Library.
 * [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
 * [GSAP](http://greensock.com/) - Animation framework and other libraries for SVG and texts manipulation
 
