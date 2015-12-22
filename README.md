@@ -60,6 +60,8 @@ A various resources list
 * [jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW. http://jspdf.com/
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/) - A modern approach to copy text to clipboard. No Flash. No dependencies. Just 2kb
 * [thesquid.ink](http://thesquid.ink/) - 2000 handcrafted Icons
+* [dropzonejs](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+
 
 *API
 
