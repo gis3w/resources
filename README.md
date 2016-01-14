@@ -86,6 +86,7 @@ A various resources list
 * [flat-color-icons](https://github.com/icons8/flat-color-icons) - Icons8 Flat Color Icons
 * [smarticons](https://smarticons.co/icons) - free icons
 * [iconstore](http://iconstore.co/) - Free Icon Packs by First-Class Designers
+* [colorfavs](http://www.colorfavs.com/) -  Create a Palette from an Image
 
 ## General Utilities
 *Usefull general utilities*
