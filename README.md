@@ -61,6 +61,9 @@ A various resources list
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/) - A modern approach to copy text to clipboard. No Flash. No dependencies. Just 2kb
 * [thesquid.ink](http://thesquid.ink/) - 2000 handcrafted Icons
 * [dropzonejs](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+* [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+* [DateBox](http://dev.jtsage.com/DateBox/) - DateBox is a jQueryMobile / Bootstrap / jQueryUI plugin that aims to make user interaction with dates and times simple and intuitive. It is a collaborative work, with a full range of features allowing easy implementation, and painless extensibility. New to version 4 is the inclusion of Bootstrap and jQueryUI operation, along with a new build system that makes adding the framework of your choice as easy as possible.
+* [JQuery Spreadsheet](http://www.inspireproduction.co.za/#/demo-ui/jquery-spreadsheet) - Javascript spreadsheet like Google Spreadsheet.
 
 
 *API
