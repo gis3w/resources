@@ -36,6 +36,7 @@ A various resources list
 ## CSS Libs/Frameworks/Resources
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
 * [Scooter](http://dropbox.github.io/scooter/index.html) - Scooter: an SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
@@ -79,6 +80,7 @@ A various resources list
 * [dc.js](https://dc-js.github.io/dc.js/) - dc.js - Dimensional Charting Javascript Library.
 * [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
 * [GSAP](http://greensock.com/) - Animation framework and other libraries for SVG and texts manipulation
+* [Viewer.js](http://fengyuanchen.github.io/viewerjs/) - http://fengyuanchen.github.io/viewerjs
 
 ## Icon graphics
 *Usefull graphics resources*
