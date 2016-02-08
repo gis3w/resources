@@ -37,6 +37,7 @@ A various resources list
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
 * [Scooter](http://dropbox.github.io/scooter/index.html) - Scooter: an SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
@@ -108,3 +109,4 @@ A various resources list
 
 * [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+* [git:logs](http://www.gitlogs.com/resource-guides) - The definitive list of resources & topics you need to know. This list is updated in realtime and uses the Github API to find all the latest most influential resources.
