@@ -66,6 +66,8 @@ A various resources list
 * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 * [DateBox](http://dev.jtsage.com/DateBox/) - DateBox is a jQueryMobile / Bootstrap / jQueryUI plugin that aims to make user interaction with dates and times simple and intuitive. It is a collaborative work, with a full range of features allowing easy implementation, and painless extensibility. New to version 4 is the inclusion of Bootstrap and jQueryUI operation, along with a new build system that makes adding the framework of your choice as easy as possible.
 * [JQuery Spreadsheet](http://www.inspireproduction.co.za/#/demo-ui/jquery-spreadsheet) - Javascript spreadsheet like Google Spreadsheet.
+* [Descartes](https://descartes.io/) - Styling for Programmers. An experimental library for writing CSS in JavaScript.
+* [Draft.js](https://facebook.github.io/draft-js/) - RICH TEXT EDITOR FRAMEWORK FOR REACT
 
 
 *API
@@ -93,6 +95,8 @@ A various resources list
 * [smarticons](https://smarticons.co/icons) - free icons
 * [iconstore](http://iconstore.co/) - Free Icon Packs by First-Class Designers
 * [colorfavs](http://www.colorfavs.com/) -  Create a Palette from an Image
+* [Unsplash](https://unsplash.com/) - Free (do whatever you want) high-resolution photos.
+* [365cons](http://www.365cons.com/) - A DAILY ICON DIARY.
 
 ## General Utilities
 *Usefull general utilities*
