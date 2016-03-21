@@ -11,6 +11,7 @@ A various resources list
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
 - [DataBase utilisties](#db-utilities)
+- [DevTools](#devtools)
 - [SUB Resources](#sub-resources)
 
 
@@ -68,6 +69,7 @@ A various resources list
 * [JQuery Spreadsheet](http://www.inspireproduction.co.za/#/demo-ui/jquery-spreadsheet) - Javascript spreadsheet like Google Spreadsheet.
 * [Descartes](https://descartes.io/) - Styling for Programmers. An experimental library for writing CSS in JavaScript.
 * [Draft.js](https://facebook.github.io/draft-js/) - RICH TEXT EDITOR FRAMEWORK FOR REACT
+* [List.js](http://www.listjs.com/) - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
 
 
 *API
@@ -114,3 +116,8 @@ A various resources list
 * [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 * [git:logs](http://www.gitlogs.com/resource-guides) - The definitive list of resources & topics you need to know. This list is updated in realtime and uses the Github API to find all the latest most influential resources.
+
+## DevTools
+*Usefull dev tools utilities
+
+*[awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
