@@ -118,6 +118,6 @@ A various resources list
 * [git:logs](http://www.gitlogs.com/resource-guides) - The definitive list of resources & topics you need to know. This list is updated in realtime and uses the Github API to find all the latest most influential resources.
 
 ## DevTools
-*Usefull dev tools utilities
+*Usefull dev tools utilities*
 
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
