@@ -21,6 +21,7 @@ A various resources list
 * [Bokeh](http://bokeh.pydata.org/en/latest/) - Bokeh is a Python interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of novel graphics in the style of D3.js, but also deliver this capability with high-performance interactivity over very large or streaming datasets. Bokeh can help anyone who would like to quickly and easily create interactive plots, dashboards, and data applications.
 * [pygadl](https://github.com/dezhin/pygdal) - Virtualenv and setuptools friendly version of standard GDAL python bindings
 * [powa](https://github.com/dalibo/powa/) - PoWA is a PostgreSQL Workload Analyzer that gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
+* [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python https://pythonhosted.org/PyPDF2/
 
 ## Web Framework
 
