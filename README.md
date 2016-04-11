@@ -71,6 +71,9 @@ A various resources list
 * [Descartes](https://descartes.io/) - Styling for Programmers. An experimental library for writing CSS in JavaScript.
 * [Draft.js](https://facebook.github.io/draft-js/) - RICH TEXT EDITOR FRAMEWORK FOR REACT
 * [List.js](http://www.listjs.com/) - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
+* [POPPER.JS](https://popper.js.org/) - A KICKASS LIBRARY USED TO CREATE POPPERS IN WEB APPLICATIONS.
+* [algebrite](http://algebrite.org/) - Computer Algebra System in Javascript.
+* [atrament.js](https://github.com/jakubfiala/atrament.js) - Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
 
 
 *API
