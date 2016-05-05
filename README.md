@@ -74,6 +74,7 @@ A various resources list
 * [POPPER.JS](https://popper.js.org/) - A KICKASS LIBRARY USED TO CREATE POPPERS IN WEB APPLICATIONS.
 * [algebrite](http://algebrite.org/) - Computer Algebra System in Javascript.
 * [atrament.js](https://github.com/jakubfiala/atrament.js) - Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
+* [chart.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
 
 
 *API
