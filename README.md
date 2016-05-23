@@ -8,6 +8,7 @@ A various resources list
 - [CSS Libs/Frameworks/Resources](#css-lib-framework-resources)
 - [Javascript WebGis Framework](#javascript-webgis-framework)
 - [Javascript App/Lib](#javascript-lib)
+- [Media](#media)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
 - [DataBase utilisties](#db-utilities)
@@ -75,6 +76,8 @@ A various resources list
 * [algebrite](http://algebrite.org/) - Computer Algebra System in Javascript.
 * [atrament.js](https://github.com/jakubfiala/atrament.js) - Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
 * [chart.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
+* [kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing.
+* [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for using the JavaScript Notifications API http://nickersoft.github.io/push.js.
 
 
 *API
@@ -91,6 +94,10 @@ A various resources list
 * [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
 * [GSAP](http://greensock.com/) - Animation framework and other libraries for SVG and texts manipulation
 * [Viewer.js](http://fengyuanchen.github.io/viewerjs/) - http://fengyuanchen.github.io/viewerjs
+
+## Media
+
+* [Plyr](https://plyr.io/) - A simple, accessible HTML5 media player by @sam_potts from @selz.
 
 ## Icon graphics
 *Usefull graphics resources*
