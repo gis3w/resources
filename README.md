@@ -41,6 +41,8 @@ A various resources list
 * [Scooter](http://dropbox.github.io/scooter/index.html) - Scooter: an SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
+* [Family.scss](http://lukyvj.github.io/family.scss/) - Family.scss is a set of 24 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
+* [Pavilion](http://www.pavilion.io/) - Ah yes, another CSS framework..
 
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
@@ -118,6 +120,8 @@ A various resources list
 
 * [.htaccess snippets](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets, all in one place. I decided to create this repo after getting so tired (and bored) with Googling everytime there's a need of forcing www for my new website.
 * [wwwhere](http://wwwhere.io/) - Wwwhere provides a carefully curated list of tools and resources for people who make websites.
+* [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/) - Algorithm Visualizer
+* [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the <head> of your document.
 
 ## DataBase utilities
 *Usefull database utilities*
@@ -129,6 +133,7 @@ A various resources list
 * [Free For Web](https://github.com/ripienaar/free-for-dev) - This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 * [git:logs](http://www.gitlogs.com/resource-guides) - The definitive list of resources & topics you need to know. This list is updated in realtime and uses the Github API to find all the latest most influential resources.
+* [Vanilla](http://www.vanillalist.com/) - The Vanilla Javascript Repository. Coz' sometimes you feel guilty for using jQuery.
 
 ## DevTools
 *Usefull dev tools utilities*
