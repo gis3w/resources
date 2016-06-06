@@ -96,6 +96,8 @@ A various resources list
 * [vis.js](http://visjs.org/) - A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
 * [GSAP](http://greensock.com/) - Animation framework and other libraries for SVG and texts manipulation
 * [Viewer.js](http://fengyuanchen.github.io/viewerjs/) - http://fengyuanchen.github.io/viewerjs
+* [microlight.js](https://asvd.github.io/microlight/) - microlight.js is a tiny open-source library which improves readability of code snippets by highlighting, for any programming language, without attaching additional language-packages or styles.
+
 
 ## Media
 
