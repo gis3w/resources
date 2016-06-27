@@ -116,6 +116,7 @@ A various resources list
 * [Unsplash](https://unsplash.com/) - Free (do whatever you want) high-resolution photos.
 * [365cons](http://www.365cons.com/) - A DAILY ICON DIARY.
 * [Colorion](http://www.colorion.co/) - Curated Color palettes for Web developers. Support for search, tags and bookmarks.﻿
+* [100 Line Icons](http://tylerbrooksdesigns.com/projects/100-icons/) - Office icon set for web and app ui.
 
 ## General Utilities
 *Usefull general utilities*
