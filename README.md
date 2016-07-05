@@ -80,6 +80,8 @@ A various resources list
 * [chart.js](http://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
 * [kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing.
 * [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for using the JavaScript Notifications API http://nickersoft.github.io/push.js.
+* [aos](https://github.com/michalsnik/aos) - Small library to animate elements on your page as you scroll.
+* [animate.js](http://anime-js.com/) - Anime (/ˈæn.ə.meɪ/) is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 
 
 *API
@@ -97,6 +99,8 @@ A various resources list
 * [GSAP](http://greensock.com/) - Animation framework and other libraries for SVG and texts manipulation
 * [Viewer.js](http://fengyuanchen.github.io/viewerjs/) - http://fengyuanchen.github.io/viewerjs
 * [microlight.js](https://asvd.github.io/microlight/) - microlight.js is a tiny open-source library which improves readability of code snippets by highlighting, for any programming language, without attaching additional language-packages or styles.
+* [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) - Its written in SASS using flexbox to be flexible and responsive. It can be easily customized, includes many possible layouts and works in all major browsers from IE10 up.
+
 
 
 ## Media
