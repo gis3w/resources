@@ -141,6 +141,7 @@ A various resources list
 * [365cons](http://www.365cons.com/) - A DAILY ICON DIARY.
 * [Colorion](http://www.colorion.co/) - Curated Color palettes for Web developers. Support for search, tags and bookmarks.﻿
 * [100 Line Icons](http://tylerbrooksdesigns.com/projects/100-icons/) - Office icon set for web and app ui.
+* [Bootstrapious Icons sets](http://bootstrapious.com/p/icon-fonts) - LIST OF 41 BEAUTIFUL & FREE ICON FONTS
 
 ## General Utilities
 *Usefull general utilities*
