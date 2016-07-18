@@ -7,7 +7,9 @@ A various resources list
 - [Django App](#django-app)
 - [CSS Libs/Frameworks/Resources](#css-lib-framework-resources)
 - [Javascript WebGis Framework](#javascript-webgis-framework)
+- [Javascript Geo App/Lib](#javascript-geo-app-lib)
 - [Javascript App/Lib](#javascript-lib)
+- [Javascript App/Lib Mobile](#javascript-app-lib-mobile)
 - [Media](#media)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
@@ -44,10 +46,23 @@ A various resources list
 * [Family.scss](http://lukyvj.github.io/family.scss/) - Family.scss is a set of 24 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 * [Pavilion](http://www.pavilion.io/) - Ah yes, another CSS framework..
 
+
 ## Javascript WebGis Framework
 *Usefull javascript webgis framework*
 
 * [MapLoom](https://github.com/ROGUE-JCTD/MapLoom) - MapLoom is a web mapping client based on OpenLayers 3. It provides full-featured editing capabilities for data stores in GeoServer - including PostGIS and GeoGig. For GeoGig layers, it lets you view history, and sync with other GeoGig repositories
+
+
+## Javascript Geo App/Lib
+*Usefull javascript app/lib about geo world*
+
+* [Algolia Places](https://community.algolia.com/places/) - Turn any <input> into an address autocomplete.
+
+
+## Javascript App/Lib Mobile
+*Usefull javascript app/lib about geo world*
+
+* [zingtouch](https://zingchart.github.io/) - ZingTouch provides six standard gestures that are completely customizable. Note: These demos are best viewed on a touch capable device.
 
 ## Javascript Lib
 *Usefull javascript libraries*
@@ -82,6 +97,10 @@ A various resources list
 * [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for using the JavaScript Notifications API http://nickersoft.github.io/push.js.
 * [aos](https://github.com/michalsnik/aos) - Small library to animate elements on your page as you scroll.
 * [animate.js](http://anime-js.com/) - Anime (/ˈæn.ə.meɪ/) is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
+* [Minigrid](http://minigrid.js.org/) - Minimal 2kb zero dependency cascading grid layout without pain.
+* [stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
+
+
 
 
 *API
@@ -100,7 +119,8 @@ A various resources list
 * [Viewer.js](http://fengyuanchen.github.io/viewerjs/) - http://fengyuanchen.github.io/viewerjs
 * [microlight.js](https://asvd.github.io/microlight/) - microlight.js is a tiny open-source library which improves readability of code snippets by highlighting, for any programming language, without attaching additional language-packages or styles.
 * [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) - Its written in SASS using flexbox to be flexible and responsive. It can be easily customized, includes many possible layouts and works in all major browsers from IE10 up.
-
+* [chartist.js](http://gionkunz.github.io/chartist-js) - SIMPLE RESPONSIVE CHARTS.
+* [datamaps](https://datamaps.co/) - Datamaps.co is a free and simple platform for creating visualizations with data maps. It allows you to upload CSV file with region data, and fully customize your map's appearance. Your map chart can be saved as PNG or SVG.
 
 
 ## Media
@@ -141,6 +161,7 @@ A various resources list
 * [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 * [git:logs](http://www.gitlogs.com/resource-guides) - The definitive list of resources & topics you need to know. This list is updated in realtime and uses the Github API to find all the latest most influential resources.
 * [Vanilla](http://www.vanillalist.com/) - The Vanilla Javascript Repository. Coz' sometimes you feel guilty for using jQuery.
+* [Bleech.io](http://bleech.io/) - Updated daily by us.
 
 ## DevTools
 *Usefull dev tools utilities*
