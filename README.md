@@ -169,6 +169,6 @@ A various resources list
 *Usefull dev tools utilities*
 
 ## Analytics
-*[Piwik](https://github.com/piwik/piwik)
+* [Piwik](https://github.com/piwik/piwik)
 
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
