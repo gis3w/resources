@@ -168,7 +168,8 @@ A various resources list
 ## DevTools
 *Usefull dev tools utilities*
 
+* [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
+
 ## Analytics
 * [Piwik](https://github.com/piwik/piwik)
 
-* [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
