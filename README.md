@@ -99,6 +99,7 @@ A various resources list
 * [animate.js](http://anime-js.com/) - Anime (/ˈæn.ə.meɪ/) is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 * [Minigrid](http://minigrid.js.org/) - Minimal 2kb zero dependency cascading grid layout without pain.
 * [stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
+* [react-animations](http://react-animations.herokuapp.com/) - A collection of animations for inline style libraries.
 
 
 
@@ -142,6 +143,7 @@ A various resources list
 * [Colorion](http://www.colorion.co/) - Curated Color palettes for Web developers. Support for search, tags and bookmarks.﻿
 * [100 Line Icons](http://tylerbrooksdesigns.com/projects/100-icons/) - Office icon set for web and app ui.
 * [Bootstrapious Icons sets](http://bootstrapious.com/p/icon-fonts) - LIST OF 41 BEAUTIFUL & FREE ICON FONTS
+* [gonzocons 2.0](http://www.gonzodesign.nl/gonzocons/) - 100 line icons.
 
 ## General Utilities
 *Usefull general utilities*
