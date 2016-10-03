@@ -101,6 +101,7 @@ A various resources list
 * [Minigrid](http://minigrid.js.org/) - Minimal 2kb zero dependency cascading grid layout without pain.
 * [stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [react-animations](http://react-animations.herokuapp.com/) - A collection of animations for inline style libraries.
+* [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/) - A super simple currency formatting library.
 
 
 
