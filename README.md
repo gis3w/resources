@@ -26,6 +26,7 @@ A various resources list
 * [pygadl](https://github.com/dezhin/pygdal) - Virtualenv and setuptools friendly version of standard GDAL python bindings
 * [powa](https://github.com/dalibo/powa/) - PoWA is a PostgreSQL Workload Analyzer that gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python https://pythonhosted.org/PyPDF2/
+* [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM. http://elevation.bopen.eu
 
 ## Web Framework
 
