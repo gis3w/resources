@@ -28,6 +28,7 @@ A various resources list
 * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python https://pythonhosted.org/PyPDF2/
 * [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM. http://elevation.bopen.eu
 * [WeasyPrint](http://weasyprint.org/) - WeasyPrint converts HTML/CSS documents to PDF.
+* [Fabric](http://www.fabfile.org/) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 
 ## Web Framework
 
