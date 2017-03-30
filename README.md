@@ -10,6 +10,7 @@ A various resources list
 - [Javascript Geo App/Lib](#javascript-geo-app-lib)
 - [Javascript App/Lib](#javascript-lib)
 - [Javascript App/Lib Mobile](#javascript-app-lib-mobile)
+- [Javascript Vue App](#javascript-vue-app)
 - [Media](#media)
 - [Icon/Graphics](#icon-graphics)
 - [General utilities](#general-utilities)
@@ -17,7 +18,7 @@ A various resources list
 - [DevTools](#devtools)
 - [Analytics](#analytics)
 - [SUB Resources](#sub-resources)
-
+- [Scripts, systems, others](#scripts)
 
 ## Python Lib
 *Usefull python libraries*
@@ -105,7 +106,12 @@ A various resources list
 * [stretchy](http://leaverou.github.io/stretchy/) - Form element autosizing, the way it should be.
 * [react-animations](http://react-animations.herokuapp.com/) - A collection of animations for inline style libraries.
 * [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/) - A super simple currency formatting library.
+* [UPNG.js](https://github.com/photopea/UPNG.js) - Fast and advanced PNG decoder.
 
+## Javascript Vue App
+*Usefull javascript Vue app*
+
+* [VUETIFY.JS](https://vuetifyjs.com/) - Vuetify.js is a component framework for Vue.js 2.
 
 
 
@@ -149,6 +155,7 @@ A various resources list
 * [100 Line Icons](http://tylerbrooksdesigns.com/projects/100-icons/) - Office icon set for web and app ui.
 * [Bootstrapious Icons sets](http://bootstrapious.com/p/icon-fonts) - LIST OF 41 BEAUTIFUL & FREE ICON FONTS
 * [gonzocons 2.0](http://www.gonzodesign.nl/gonzocons/) - 100 line icons.
+* [inconspider](https://www.iconspider.com/) - For every open icon libraries, give you html usage.
 
 ## General Utilities
 *Usefull general utilities*
@@ -179,3 +186,5 @@ A various resources list
 ## Analytics
 * [Piwik](https://github.com/piwik/piwik)
 
+## Scripts, systems, others
+* [ssh-scripts](https://github.com/ThomasHabets/ssh-scripts) - Some SSH-related scripts
