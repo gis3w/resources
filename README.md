@@ -38,6 +38,7 @@ A various resources list
 * [GeoShape](http://geoshape.org/) - Geospatial capabilities for Security, Humanitarian Assistance, Partner Engagement
 
 ## Django App
+
 * [Django Leaflet Storage](https://github.com/yohanboniface/django-leaflet-storage) - Provide collaborative maps for your Django project. Django-Leaflet-Storage is a backend for Leaflet.Storage, built on top of Geodjango and Leaflet.
 * [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
 * [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
@@ -107,6 +108,7 @@ A various resources list
 * [react-animations](http://react-animations.herokuapp.com/) - A collection of animations for inline style libraries.
 * [CurrencyFormatter.js](https://osrec.github.io/currencyFormatter.js/) - A super simple currency formatting library.
 * [UPNG.js](https://github.com/photopea/UPNG.js) - Fast and advanced PNG decoder.
+* [Tippy.js](https://atomiks.github.io/tippyjs/) - A lightweight, pure JavaScript tooltip library.
 
 ## Javascript Vue App
 *Usefull javascript Vue app*
