@@ -187,6 +187,8 @@ A various resources list
 
 ## Analytics
 * [Piwik](https://github.com/piwik/piwik)
+* [fillstory](https://www.fullstory.com/) - What do you want to know about your customer experience?
+
 
 ## Scripts, systems, others
 * [ssh-scripts](https://github.com/ThomasHabets/ssh-scripts) - Some SSH-related scripts
