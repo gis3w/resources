@@ -158,6 +158,7 @@ A various resources list
 * [Bootstrapious Icons sets](http://bootstrapious.com/p/icon-fonts) - LIST OF 41 BEAUTIFUL & FREE ICON FONTS
 * [gonzocons 2.0](http://www.gonzodesign.nl/gonzocons/) - 100 line icons.
 * [inconspider](https://www.iconspider.com/) - For every open icon libraries, give you html usage.
+* [Mocka](https://chalarangelo.github.io/mocka/) - Simple, elegant content placeholder.
 
 ## General Utilities
 *Usefull general utilities*
