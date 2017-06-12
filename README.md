@@ -135,6 +135,7 @@ A various resources list
 * [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) - Its written in SASS using flexbox to be flexible and responsive. It can be easily customized, includes many possible layouts and works in all major browsers from IE10 up.
 * [chartist.js](http://gionkunz.github.io/chartist-js) - SIMPLE RESPONSIVE CHARTS.
 * [datamaps](https://datamaps.co/) - Datamaps.co is a free and simple platform for creating visualizations with data maps. It allows you to upload CSV file with region data, and fully customize your map's appearance. Your map chart can be saved as PNG or SVG.
+* [billboard.js](https://naver.github.io/billboard.js/) - Re-usable easy interface JavaScript chart library, based on D3 v4+.
 
 
 ## Media
