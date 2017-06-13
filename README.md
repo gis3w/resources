@@ -13,6 +13,7 @@ A various resources list
 - [Javascript Vue App](#javascript-vue-app)
 - [Media](#media)
 - [Icon/Graphics](#icon-graphics)
+- [Templates/UI Kits](#templates-ui-kit)
 - [General utilities](#general-utilities)
 - [DataBase utilisties](#db-utilities)
 - [DevTools](#devtools)
@@ -160,6 +161,12 @@ A various resources list
 * [gonzocons 2.0](http://www.gonzodesign.nl/gonzocons/) - 100 line icons.
 * [inconspider](https://www.iconspider.com/) - For every open icon libraries, give you html usage.
 * [Mocka](https://chalarangelo.github.io/mocka/) - Simple, elegant content placeholder.
+
+
+## Templates/UI Kits
+*Usefull template and/or Ui Kits*
+
+* [Now UI Kite](http://demos.creative-tim.com/now-ui-kit/index.html) - A beautiful Bootstrap 4 UI kit. Yours free.
 
 ## General Utilities
 *Usefull general utilities*
