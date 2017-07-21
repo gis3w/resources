@@ -44,6 +44,7 @@ A various resources list
 * [django-superbulk](https://github.com/thelonecabbage/django-superbulk) - Django app/view that adds the ability to execute many requests inside of a single HTTP connection
 * [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
 * [Hayastack](http://haystacksearch.org/) - Modular search for Django
+* [OminDB](https://github.com/OmniDB/OmniDB) - Web tool for database management and conversion https://omnidb.org.
 
 ## CSS Libs/Frameworks/Resources
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
