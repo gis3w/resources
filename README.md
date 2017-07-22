@@ -180,6 +180,7 @@ A various resources list
 ## DataBase utilities
 *Usefull database utilities*
 * [pg-migrator](https://github.com/aphel-bilisim-hizmetleri/pg-migrator) - PostgreSQL Migration Tool
+* [Citus Community Edition](https://www.citusdata.com/product/community) - Built on Postgres. Made for scale. Built for app devs everywhere.
 
 ## SUB Resources
 *Other resource usefull resources*
