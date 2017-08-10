@@ -15,7 +15,7 @@ A various resources list
 - [Icon/Graphics](#icon-graphics)
 - [Templates/UI Kits](#templates-ui-kit)
 - [General utilities](#general-utilities)
-- [DataBase utilisties](#db-utilities)
+- [DataBase utilities](#db-utilities)
 - [DevTools](#devtools)
 - [Analytics](#analytics)
 - [SUB Resources](#sub-resources)
