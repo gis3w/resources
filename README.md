@@ -162,6 +162,7 @@ A various resources list
 * [gonzocons 2.0](http://www.gonzodesign.nl/gonzocons/) - 100 line icons.
 * [inconspider](https://www.iconspider.com/) - For every open icon libraries, give you html usage.
 * [Mocka](https://chalarangelo.github.io/mocka/) - Simple, elegant content placeholder.
+* [Stockio](https://www.stockio.com/) - Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use.
 
 
 ## Templates/UI Kits
