@@ -52,7 +52,8 @@ A various resources list
 * [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [Family.scss](http://lukyvj.github.io/family.scss/) - Family.scss is a set of 24 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
-* [Pavilion](http://www.pavilion.io/) - Ah yes, another CSS framework..
+* [Pavilion](http://www.pavilion.io/) - Ah yes, another CSS framework.
+* [Hover Buttons](https://varin6.github.io/Hover-Buttons/) - Animated CSS/SCSS Buttons.
 
 
 ## Javascript WebGis Framework
