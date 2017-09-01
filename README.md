@@ -164,6 +164,7 @@ A various resources list
 * [inconspider](https://www.iconspider.com/) - For every open icon libraries, give you html usage.
 * [Mocka](https://chalarangelo.github.io/mocka/) - Simple, elegant content placeholder.
 * [Stockio](https://www.stockio.com/) - Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use.
+* [Vecteezy](https://www.vecteezy.com/) - Discover & Download Free Vector Art.
 
 
 ## Templates/UI Kits
