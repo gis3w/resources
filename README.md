@@ -45,6 +45,7 @@ A various resources list
 * [Django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
 * [Hayastack](http://haystacksearch.org/) - Modular search for Django
 * [OminDB](https://github.com/OmniDB/OmniDB) - Web tool for database management and conversion https://omnidb.org.
+* [django-ltree](https://github.com/novafloss/django-ltree-demo) - How to store trees with Django & PostgreSQL.
 
 ## CSS Libs/Frameworks/Resources
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
