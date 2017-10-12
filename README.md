@@ -166,6 +166,7 @@ A various resources list
 * [Mocka](https://chalarangelo.github.io/mocka/) - Simple, elegant content placeholder.
 * [Stockio](https://www.stockio.com/) - Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use.
 * [Vecteezy](https://www.vecteezy.com/) - Discover & Download Free Vector Art.
+* [paletton.com](http://paletton.com) - Palette generator.
 
 
 ## Templates/UI Kits
