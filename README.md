@@ -140,6 +140,7 @@ A various resources list
 * [chartist.js](http://gionkunz.github.io/chartist-js) - SIMPLE RESPONSIVE CHARTS.
 * [datamaps](https://datamaps.co/) - Datamaps.co is a free and simple platform for creating visualizations with data maps. It allows you to upload CSV file with region data, and fully customize your map's appearance. Your map chart can be saved as PNG or SVG.
 * [billboard.js](https://naver.github.io/billboard.js/) - Re-usable easy interface JavaScript chart library, based on D3 v4+.
+* [Frappé Charts](https://frappe.github.io/charts/) - GitHub-inspired simple and modern charts for the web with zero dependencies.
 
 
 ## Media
