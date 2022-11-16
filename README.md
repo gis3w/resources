@@ -2,25 +2,27 @@
 A various resources list
 
 ## Table of contents
-- [Python app/lib](#python-lib)
-- [Web Framework](#web-framework)
-- [Django App](#django-app)
-- [CSS Libs/Frameworks/Resources](#css-lib-framework-resources)
-- [Javascript WebGis Framework](#javascript-webgis-framework)
-- [Javascript Geo App/Lib](#javascript-geo-app-lib)
-- [Javascript App/Lib](#javascript-lib)
-- [Javascript App/Lib Mobile](#javascript-app-lib-mobile)
-- [Javascript Vue App](#javascript-vue-app)
-- [Media](#media)
-- [Icon/Graphics](#icon-graphics)
-- [Templates/UI Kits](#templates-ui-kit)
-- [General utilities](#general-utilities)
-- [DataBase utilities](#db-utilities)
-- [DevTools](#devtools)
-- [Analytics](#analytics)
-- [SUB Resources](#sub-resources)
-- [Regular Expressions Apps](#re-resources)
-- [Scripts, systems, others](#scripts)
+- [Resources](#resources)
+  - [Table of contents](#table-of-contents)
+  - [Python Lib](#python-lib)
+  - [Web Framework](#web-framework)
+  - [Django App](#django-app)
+  - [CSS Libs/Frameworks/Resources](#css-libsframeworksresources)
+  - [Javascript WebGis Framework](#javascript-webgis-framework)
+  - [Javascript Geo App/Lib](#javascript-geo-applib)
+  - [Javascript App/Lib Mobile](#javascript-applib-mobile)
+  - [Javascript Lib](#javascript-lib)
+  - [Javascript Vue App](#javascript-vue-app)
+  - [Media](#media)
+  - [Icon graphics](#icon-graphics)
+  - [Templates/UI Kits](#templatesui-kits)
+  - [General Utilities](#general-utilities)
+  - [DataBase utilities](#database-utilities)
+  - [SUB Resources](#sub-resources)
+  - [DevTools](#devtools)
+  - [Analytics](#analytics)
+  - [Regular Expressions Apps](#regular-expressions-apps)
+  - [Scripts, systems, others](#scripts-systems-others)
 
 ## Python Lib
 *Usefull python libraries*
@@ -203,6 +205,7 @@ A various resources list
 *Usefull dev tools utilities*
 
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
+* [maildev](https://github.com/maildev/maildev) - SMTP Server + Web Interface for viewing and testing emails during development. 
 
 ## Analytics
 * [Piwik](https://github.com/piwik/piwik)
