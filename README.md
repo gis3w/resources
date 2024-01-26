@@ -34,6 +34,7 @@ A various resources list
 * [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM. http://elevation.bopen.eu
 * [WeasyPrint](http://weasyprint.org/) - WeasyPrint converts HTML/CSS documents to PDF.
 * [Fabric](http://www.fabfile.org/) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
+* [Granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
 
 ## Web Framework
 
