@@ -23,6 +23,7 @@ A various resources list
   - [Analytics](#analytics)
   - [Regular Expressions Apps](#regular-expressions-apps)
   - [Scripts, systems, others](#scripts-systems-others)
+  - [Blogs, manuals, others](#blogs-manuals-others)
 
 ## Python Lib
 *Usefull python libraries*
@@ -219,3 +220,6 @@ A various resources list
 
 ## Scripts, systems, others
 * [ssh-scripts](https://github.com/ThomasHabets/ssh-scripts) - Some SSH-related scripts
+
+## Blogs, manuals, others
+* [Photon designer](https://www.photondesigner.com/) - Python and Django blog
