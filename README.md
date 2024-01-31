@@ -36,6 +36,7 @@ A various resources list
 * [WeasyPrint](http://weasyprint.org/) - WeasyPrint converts HTML/CSS documents to PDF.
 * [Fabric](http://www.fabfile.org/) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
+* [QuackOSM](https://kraina-ai.github.io/quackosm/0.4.0/) - An open-source tool for reading OpenStreetMap PBF files using DuckDB.
 
 ## Web Framework
 
