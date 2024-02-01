@@ -37,6 +37,7 @@ A various resources list
 * [Fabric](http://www.fabfile.org/) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
 * [QuackOSM](https://kraina-ai.github.io/quackosm/0.4.0/) - An open-source tool for reading OpenStreetMap PBF files using DuckDB.
+* [EasyGmail](https://github.com/ayushgun/easygmail) - EasyGmail is a lightweight, minimalistic, and synchronous Python API designed for quick email sending via Gmail.
 
 ## Web Framework
 
