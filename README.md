@@ -38,6 +38,8 @@ A various resources list
 * [Granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
 * [QuackOSM](https://kraina-ai.github.io/quackosm/0.4.0/) - An open-source tool for reading OpenStreetMap PBF files using DuckDB.
 * [EasyGmail](https://github.com/ayushgun/easygmail) - EasyGmail is a lightweight, minimalistic, and synchronous Python API designed for quick email sending via Gmail.
+* [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) - PyPDFForm is a free and open source pure-Python 3 library for PDF form processing.
+
 
 ## Web Framework
 
