@@ -44,6 +44,8 @@ A various resources list
 * [Shiny](http://shiny.rstudio.com/) - A web application framework for R
 * [Umap](https://bitbucket.org/yohanboniface/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site. Because we think that the more OSM will be used, the more OSM will be ''cured''. It uses django-leaflet-storage and Leaflet.Storage, built on top of Django and Leaflet.
 * [GeoShape](http://geoshape.org/) - Geospatial capabilities for Security, Humanitarian Assistance, Partner Engagement
+* [htmx](https://htmx.org/) - htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+
 
 ## Django App
 
