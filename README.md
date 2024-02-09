@@ -39,6 +39,8 @@ A various resources list
 * [QuackOSM](https://kraina-ai.github.io/quackosm/0.4.0/) - An open-source tool for reading OpenStreetMap PBF files using DuckDB.
 * [EasyGmail](https://github.com/ayushgun/easygmail) - EasyGmail is a lightweight, minimalistic, and synchronous Python API designed for quick email sending via Gmail.
 * [PyPDFForm](https://github.com/chinapandaman/PyPDFForm) - PyPDFForm is a free and open source pure-Python 3 library for PDF form processing.
+* [skorche](https://github.com/AnsBalin/skorche) - skorche is (or will be!) a lightweight python library for simple task orchestration.
+
 
 
 ## Web Framework
