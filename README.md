@@ -60,6 +60,7 @@ A various resources list
 * [OminDB](https://github.com/OmniDB/OmniDB) - Web tool for database management and conversion https://omnidb.org.
 * [django-ltree](https://github.com/novafloss/django-ltree-demo) - How to store trees with Django & PostgreSQL.
 * [django-webhook](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+* [django-queryhunter](https://github.com/PaulGilmartin/django-queryhunter) - Hunt down the lines of your Django application code which are responsible for executing the most queries.
 
 ## CSS Libs/Frameworks/Resources
 * [corpus](http://corpuscss.com/) - It’s basically a collection of the things I find myself returning to for each new project.
