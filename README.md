@@ -198,6 +198,7 @@ A various resources list
 * [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/) - Algorithm Visualizer
 * [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the <head> of your document.
 * [Ngrok]()https://ngrok.com/) - Secure tunnels to localhost. ”I want to expose a local server behind a NAT or firewall to the internet.”
+* [portr](https://github.com/amalshaji/portr) - Portr is a tunnel solution that allows you to expose local http, tcp or websocket connections to the public internet. It utilizes SSH remote port forwarding under the hood to securely tunnel connections. (Ngrok opensource)
 
 ## DataBase utilities
 *Usefull database utilities*
